@@ -24,17 +24,17 @@ em {
     color: blue;
 }
 
- .Brushes h3 {
+#brushes {
     display: block;
     background-color: mediumspringgreen;
 }
 
- .Frames h3 {
+#frames {
     display: block;
     background-color: lightcoral;
 }
 
- .Paint h3 {
+#paint {
     display: block;
     background-color: skyblue;
 }
